@@ -1,5 +1,3 @@
-#include "sort.h"
-
 /*
  * File: 106-bitonic_sort.c
  * Auth: Brennan D Baraban
